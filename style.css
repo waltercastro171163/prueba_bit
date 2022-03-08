@@ -156,14 +156,21 @@
     float: right;
     text-align: center;
 }
-.seccion5 h2{
+.seccion5 h3{
     padding: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     background-color: blue;
     color: white;
 }
+.formulario{
 
+margin-top: 20px;
+
+
+
+
+}
 
 
 
